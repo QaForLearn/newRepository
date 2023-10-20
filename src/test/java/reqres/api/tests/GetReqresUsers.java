@@ -1,8 +1,6 @@
 package reqres.api.tests;
 
-import io.qameta.allure.Allure;
 import io.restassured.response.Response;
-import lombok.Data;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import reqres.api.dto.ReqresUserDto;
